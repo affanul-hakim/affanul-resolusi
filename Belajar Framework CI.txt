@@ -1,0 +1,9 @@
+// Framework Codeigniter
+------------------------
+- pengenalan
+- download
+- seting CI (config, htacces, database, routes, controller, model)
+- koneksi ke datatabase mysql ke CI
+- membuat fitur CRUD Mahasiswa dengan CI
+- Menambah fitur search
+- Pagging dengan CI
