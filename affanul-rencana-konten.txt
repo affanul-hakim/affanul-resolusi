@@ -1,4 +1,6 @@
 Rencana Konten Ilmuweb.
 
 - Javascript
+ * pengenalan Javascript
 - Codeigniter
+ * Pengenalan Codeigniter
