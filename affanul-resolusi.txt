@@ -3,3 +3,4 @@ Affanul Resolusi
 - Belajar Framework Codeigniter
 - Belajar Framework Bootstrap
 - Menyelesaikan Project Web Portal Kemenag Sulut Penambahan menu (vidio, data, populer post, info grafis) - September 2020.
+- Membuat Sistem Informasi Pendis
