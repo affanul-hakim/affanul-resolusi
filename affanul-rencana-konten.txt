@@ -2,8 +2,12 @@ Rencana Konten Ilmuweb.
 
 - Javascript
  * pengenalan Javascript
+  * Angular
+  * React
 - Codeigniter
+- laravel
  * Pengenalan Codeigniter
+
  * Konten Botstrap
  * PHP Framework
  - Laravel
@@ -11,3 +15,4 @@ Rencana Konten Ilmuweb.
  - Vlog
  - Phyton
  - Reach.js
+
