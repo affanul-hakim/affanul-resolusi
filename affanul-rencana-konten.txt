@@ -2,6 +2,9 @@ Rencana Konten Ilmuweb.
 
 - Javascript
  * pengenalan Javascript
+  * Angular
+  * React
 - Codeigniter
+- laravel
  * Pengenalan Codeigniter
- * Konten Botstrap
+ 
