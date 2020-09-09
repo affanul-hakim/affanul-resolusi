@@ -1,2 +1,2 @@
 # affanul-resolusi
-Repositori untuk menyimpan rencana affanul kedepan
+Repositori untuk menyimpan rencana Projec dan pembelajaran programing kedepan
