@@ -1,6 +1,10 @@
-Affanul Resolusi
-- Konsisten belajar web programin dengan bahasa PHP
-- Belajar Framework Codeigniter
-- Belajar Framework Bootstrap
-- Menyelesaikan Project Web Portal Kemenag Sulut Penambahan menu (vidio, data, populer post, info grafis) - September 2020.
-- Membuat Yotube Ilmuweb.
+Affanul Roadmap Web Development :
+
+- Bulan Juni 2021 :
+
+    PZM :
+  - Belajar PHP Dasar
+  
+    Unpas :
+  - Belajar HTML
+  - Belajar CSS
