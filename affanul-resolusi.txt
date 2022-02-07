@@ -1,10 +1,16 @@
-Affanul Roadmap Web Development :
-
-- Bulan Juni 2021 :
-
-    PZM :
-  - Belajar PHP Dasar
-  
-    Unpas :
-  - Belajar HTML
-  - Belajar CSS
+- Project I Surat Keluar / Masuk
+    + Spesifikasi : Codeigniter 3, Template SBAdmin2, Bootstrap 4. 70%
+    Fitur / menu :
+        + Surat Masuk
+        + Surat Disposisi
+        + Surat Keluar
+        + Laporan
+        + Seting
+    
+ - Project II Buku Tamu Digital
+    + Spesifikasi : Codeigniter 2, SBAdmin2, Bootstrap 4, 90%
+    Fitur / Menu :
+        + Buku Tamu
+        + Tamu Online
+        + Laporan
+        + Seting
